@@ -1,7 +1,6 @@
 branch-defaults:
   main:
-    environment: FlaskEBS
-    group_suffix: null
+    environment: null
 global:
   application_name: FlaskEBS
   branch: null
